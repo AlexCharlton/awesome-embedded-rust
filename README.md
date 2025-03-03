@@ -244,6 +244,7 @@ Peripheral Access Crates were also called Device Crates.
 - [`atsame54`](https://github.com/atsamd-rs/atsamd) Peripheral access API for Microchip (formerly Atmel) SAME54 microcontrollers.  This git repo hosts both the peripheral access crate and the hal.
 - [`atsamx7x-rust`](https://github.com/atsams-rs/atsamx7x-rust) Peripheral access API for Microchip (formerly Atmel) SAM S70/E70/V70/V71 microcontrollers.  This git repo hosts both the peripheral access crate and the hal.
 - [`avr-device`](https://github.com/Rahix/avr-device) Peripheral access API for Microchip (formerly Atmel) AVR microcontroller family.
+- [`mpfs-pac`](https://crates.io/crates/mpfs-pac) Peripheral access API for the Microchip PolarFire SoC - [![Crates.io](https://img.shields.io/crates/v/mpfs-pac)](https://crates.io/crates/mpfs-pac)
 - [`sam3x8e`](https://crates.io/crates/sam3x8e) Peripheral access API for Atmel SAMD3X8E microcontrollers (generated using svd2rust)  - [![crates.io](https://img.shields.io/crates/v/sam3x8e.svg)](https://crates.io/crates/sam3x8e)
 - [`pic32-pac`](https://crates.io/crates/pic32mx2xx) Peripheral access API for PIC32MX1/2xx - [![crates.io](https://img.shields.io/crates/v/pic32mx2xx)](https://crates.io/crates/pic32mx2xx)
 
@@ -431,6 +432,7 @@ Implementations of [`embedded-hal`] for microcontroller families and systems run
 - [`atsamd-hal`](https://crates.io/crates/atsamd-hal) - HAL for SAMD11, SAMD21, SAMD51 and SAME54 - [![crates.io](https://img.shields.io/crates/v/atsamd-hal.svg)](https://crates.io/crates/atsamd-hal)
 - [`atsamx7x-hal`](https://crates.io/crates/atsamx7x-hal) - HAL for SAM S70/E70/V70/V71-based devices - [![crates.io](https://img.shields.io/crates/v/atsamx7x-hal.svg)](https://crates.io/crates/atsamx7x-hal)
 - [`avr-hal`](https://github.com/Rahix/avr-hal) - HAL for AVR microcontroller family and AVR-based boards
+- [`mpfs-hal`](https://github.com/AlexCharlton/mpfs-hal) - HAL for Microchip PolarFire SoC - [![Crates.io](https://img.shields.io/crates/v/mpfs-hal)](https://crates.io/crates/mpfs-hal)
 - [`pic32-hal`](https://crates.io/crates/pic32-hal) - HAL for PIC32MX - [![crates.io](https://img.shields.io/crates/v/pic32-hal.svg)](https://crates.io/crates/pic32-hal)
 
 ### Nordic
